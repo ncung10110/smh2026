@@ -21,7 +21,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=filename_wip,Windows=filename_wip,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=filename_wip,Windows=filename_wip,_Debug=filename_wip,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>
